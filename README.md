@@ -1,5 +1,4 @@
 # Extracting-Stock-Data-Using-a-Web-Scraping
-# Extracting Stock Data Using Web Scraping
 
 This project demonstrates how to extract historical stock price data for Amazon (AMZN) using web scraping techniques in Python.
 
